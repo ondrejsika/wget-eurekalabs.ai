@@ -1,1 +1,1 @@
-# wget -r eurekalabs.ai
+# wget -r [eurekalabs.ai](https://eurekalabs.ai)
