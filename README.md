@@ -1,1 +1,1 @@
-# eurekalabs.ai (wget -r)
+# wget -r eurekalabs.ai
